@@ -1,8 +1,7 @@
 Assignment 3
 CAP 6610 - Spring 2024
 
-Student: Andrés Leiva-Araos 
-
+Author: Andrés Leiva-Araos 
 
 To run the Jupyter Notebooks: 
 
