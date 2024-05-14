@@ -12,7 +12,7 @@ To run the Jupyter Notebooks:
 
 Directory and file structure:
 
-Project_Root/
+Project_Root/<br>
 │
 ├── Assignment_3-F01.ipynb
 ├── Assignment3.pdf
