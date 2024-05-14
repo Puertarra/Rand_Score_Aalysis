@@ -9,18 +9,18 @@ To run the Jupyter Notebooks:
 - Open and execute Assignment_3-F01.ipynb
 
 
-Directory and file structure:
-
-Project_Root/<br>
-│<br>
-├── Assignment_3-F01.ipynb<br>
-├── Assignment3.pdf<br>
-├── Assignment3-Report.txt<br>
-│<br>
-├── data/<br>
-│   └── online_shoppers_intention.csv<br>
-│<br>
-└── img/<br>
-    └── distributions<br>
-
+## Directory and file structure:
+```
+Project_Root/
+│
+├── Assignment_3-F01.ipynb
+├── Assignment3.pdf
+├── Assignment3-Report.txt
+│
+├── data/
+│   └── online_shoppers_intention.csv
+│
+└── img/
+    └── distributions
+```
 
