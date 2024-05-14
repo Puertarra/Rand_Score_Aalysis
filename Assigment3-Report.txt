@@ -1,0 +1,21 @@
+Assignment 3
+CAP 6610 - Spring 2024
+
+Student: Andrés Leiva-Araos (n01513237)
+Professor: Dr. Liu Xudong
+
+
+Report:
+
+The project consisted of running the unparameterized versions of the K-Means and AgglomerativeClustering (CLAN) algorithms on the project dataset. A k=4 was used as the clustering hyper-parameter.
+
+The results where:
+
+Rand Index for K-Means:  0.4352
+Rand Index for CLAN:  0.4405
+
+The reported Rand Index for both K-Means and CLAN, standing at 0.4319 and 0.4405 respectively, suggests a measure of similarity between the cluster assignments produced by these algorithms and the ground truth, which has just two classes. Considering that both algorithms were configured with a predetermined cluster count k=4 and subjected to the default parameter adjustments, even though the actual data is categorized into merely two classes, the CLAN algorithm shows a slightly more aligned result with the true classification compared to K-Means. The Rand Index scores indicate that while neither clustering perfectly aligns with the true labels, CLAN's approach results in a grouping that is slightly  more congruent with the actual class distribution, highlighting its relative efficacy in dealing with this dataset's specific clustering challenge.
+
+Two additional experiments were conducted aiming for improved indices. These experiments demonstrate the value of more sophisticated hyper-parameter selection in both algorithms.
+
+
